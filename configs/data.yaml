@@ -1,0 +1,5 @@
+path: ../data/processed
+train: event_frames/train
+val: event_frames/val
+nc: 4
+names: ['car', 'bus', 'van', 'others']

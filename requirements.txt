@@ -1,0 +1,8 @@
+numpy==2.4.4
+opencv_python==4.13.0.92
+pandas==3.0.1
+PyQt5==5.15.11
+pyqt5_sip==12.17.0
+torch==2.5.1+cu121
+tqdm==4.67.3
+ultralytics==8.4.28
